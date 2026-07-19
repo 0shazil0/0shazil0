@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shazilshaikh756@gmail.com**
 
-- 📄 Know about my experiences [https://shazilshaikh.wuaze.com/](https://shazilshaikh.github.io/)
+- 📄 Know about my experiences [https://shazilshaikh.github.io/](https://shazilshaikh.github.io/)
 
 - ⚡ Fun fact **There are nearly as many pieces of digital information as there are stars in the universe. Less than 0.5% of all data we create is ever used or analyzed.**
 
