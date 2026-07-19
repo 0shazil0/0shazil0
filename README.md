@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Building AI Solutions that automates workflows, transforms data into actionable insights, and scales with growth**
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning (NLP, CV)**
+- 🌱 I’m currently learning **n8n, cloud services, automation workflows**
 
 - 💬 Ask me about **Python , Data Science, Analytics, GenAI, AWS**
 
