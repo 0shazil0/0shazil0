@@ -1,22 +1,91 @@
 [![MasterHead](https://camo.githubusercontent.com/f5a8ba4f28fe3ec8d5eb73dfa2303873b5d7122fb1ba08a5946e24d6c13e82c4/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f4334443132415145536a37322d733567454b672f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f302f313632363735333836373131303f653d3231343734383336343726763d6265746126743d4b6637594175775a74794347594c4e63682d4d676335654f432d376837754c5f646e424149677341465251)](https://shazilshaikh.io)
 <h1 align="center">Hi 👋, I'm Shazil Shaikh</h1>
-<h3 align="center">CSE'26 | MLSA BETA | Ex - General Secretary @MUET ACM | Data Science and AI enthusiast</h3>
+<h3 align="center">Building AI Solutions that automates workflows, transforms data into actionable insights, and scales with growth | AI Engineer | Data Science | GenAI • LLMs • AI Agents • RAG | Automation | AWS  | CSE 26’  | Beta - MLSA</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0shazil0&label=Profile%20views&color=0e75b6&style=flat" alt="0shazil0" /> </p>
 
 
-- 🔭 I’m currently working on **Machine Learning and Deep Learning**
+- 🔭 I’m currently working on **Building AI Solutions that automates workflows, transforms data into actionable insights, and scales with growth**
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning (NLP, CV)**
 
-- 💬 Ask me about **python, data science, data analytics**
+- 💬 Ask me about **Python , Data Science, Analytics, GenAI, AWS**
 
 - 📫 How to reach me **shazilshaikh756@gmail.com**
 
-- 📄 Know about my experiences [https://shazilshaikh.wuaze.com/](https://shazilshaikh.wuaze.com/)
+- 📄 Know about my experiences [https://shazilshaikh.wuaze.com/](https://shazilshaikh.github.io/)
 
 - ⚡ Fun fact **There are nearly as many pieces of digital information as there are stars in the universe. Less than 0.5% of all data we create is ever used or analyzed.**
+
+# 🚀 Featured Projects
+
+### 🧠 NeuroGuide XR
+An AI-powered Extended Reality (XR) assistant designed to provide real-time contextual guidance using Computer Vision, Large Language Models, and AR overlays. The system aims to assist users with software workflows, engineering laboratories, and immersive learning experiences through intelligent scene understanding and interactive AI support.
+
+**Tech:** Unity, AR Foundation, Python, FastAPI, YOLO, LLMs, Ollama, WebSockets
+
+---
+
+### 📊 Berkana AI – Financial Intelligence Platform
+An AI-powered financial analytics platform combining Retrieval-Augmented Generation (RAG), FinBERT, Machine Learning, and interactive dashboards to analyze financial reports, generate insights, identify trends, and support decision-making.
+
+**Tech:** Python, Flask, PostgreSQL, pgvector, FinBERT, XGBoost, LSTM, Plotly, FAISS, OpenRouter LLMs
+
+---
+
+### ☁️ Customer Churn Analytics Pipeline
+A cloud-based ETL and reporting solution that transforms customer churn data into business-ready insights through automated data engineering workflows and interactive reporting.
+
+**Highlights**
+- Automated data ingestion, transformation, and analytics pipelines.
+- Uses AWS Glue Crawlers and Glue Jobs for schema discovery and ETL processing.
+- Query layer powered by Amazon Athena.
+- Power BI integration through ODBC for reporting and dashboard creation.
+- Apache Airflow orchestration for scheduled, monitored, and recoverable workflows.
+
+**Tech:** AWS (S3, Glue, Athena), Apache Airflow, Python, ETL, Power BI, Business Intelligence
+
+---
+
+### 📋 PMO Governance & Project Management System
+A low-code Project Management Office (PMO) platform that replaces spreadsheet tracking and manual follow-ups with structured project governance workflows.
+
+**Highlights**
+- Request submission and approval workflows.
+- Multi-stage approval process (Manager → Chief → Director).
+- Automatic project creation after approval.
+- Milestone tracking, document management, and KPI monitoring.
+- Executive dashboards and automated notifications.
+
+**Tech:** Microsoft Power Apps, Power Automate, SharePoint Lists, Power BI, Workflow Automation
+
+---
+
+### 📈 SI3 Analytics Dashboard
+A full-stack analytics platform designed to monitor LinkedIn growth and email campaign performance through interactive dashboards and KPI-driven reporting.
+
+**Highlights**
+- LinkedIn and email campaign analytics in one platform.
+- Interactive KPI cards and trend visualizations.
+- Excel/CSV upload workflows for data refresh.
+- Dockerized deployment for repeatable local and production environments.
+
+**Tech:** Next.js, React, TypeScript, Chart.js, Node.js, Express, MongoDB, Docker
+
+---
+
+### 🌍 Air Quality Prediction Platform
+Designed an end-to-end machine learning pipeline for forecasting air quality using weather and pollutant data, following MLOps best practices for automation and deployment.
+
+**Tech:** Python, Scikit-learn, XGBoost, FastAPI, Airflow, Docker, PostgreSQL
+
+---
+
+### 🤖 AI Chatbots & Intelligent Automation
+Built intelligent conversational systems using RAG pipelines, vector databases, and modern LLM frameworks for document understanding, knowledge retrieval, and business process automation.
+
+**Tech:** Python, LangChain, FAISS, PostgreSQL, Flask, LLM APIs
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
