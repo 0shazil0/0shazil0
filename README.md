@@ -1,4 +1,5 @@
-[![MasterHead](https://camo.githubusercontent.com/f5a8ba4f28fe3ec8d5eb73dfa2303873b5d7122fb1ba08a5946e24d6c13e82c4/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f4334443132415145536a37322d733567454b672f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f302f313632363735333836373131303f653d3231343734383336343726763d6265746126743d4b6637594175775a74794347594c4e63682d4d676335654f432d376837754c5f646e424149677341465251)](https://shazilshaikh.io)
+<img src="./✏️ Edit Me - Template 35.png" width="100%" alt="Banner">
+
 <h1 align="center">Hi 👋, I'm Shazil Shaikh</h1>
 <h3 align="center">Building AI Solutions that automates workflows, transforms data into actionable insights, and scales with growth | AI Engineer | Data Science | GenAI • LLMs • AI Agents • RAG | Automation | AWS  | CSE 26’  | Beta - MLSA</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
